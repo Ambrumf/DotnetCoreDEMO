@@ -1,0 +1,27 @@
+<form asp-action="SetTheme" style="background-color:@ViewBag.Back;color:@ViewBag.Content;">
+    @{
+        string sel = ViewBag.currentSelect;
+    }
+<select name="theme">
+    @if(string.IsNullOrEmpty(sel))
+    {
+        <option value = "theme-1">主题1</option>
+        <option value = "theme-2">主题2</option>
+    }
+    else
+    {
+        if(sel == "theme-2")
+        {
+            <option value = "theme-1">主题1</option>
+            <option value = "theme-2" selected>主题2</option>
+        }
+        else 
+        {
+            <option value = "theme-1" selected>主题1</option>
+            <option value = "theme-2">主题2</option>
+        }
+    }
+</select>
+<button type = "submit">提交</button>
+<p>123456</p>
+</form>

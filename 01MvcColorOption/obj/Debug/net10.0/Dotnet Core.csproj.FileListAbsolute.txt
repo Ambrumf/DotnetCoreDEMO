@@ -1,0 +1,30 @@
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.AssemblyInfo.cs
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\appsettings.json
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.staticwebassets.endpoints.json
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.exe
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.deps.json
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.runtimeconfig.json
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.dll
+C:\Users\Frank\Desktop\Dotnet Core\bin\Debug\net10.0\Dotnet Core.pdb
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\scopedcss\bundle\Dotnet Core.styles.css
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.dll
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\refint\Dotnet Core.dll
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.pdb
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.genruntimeconfig.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\ref\Dotnet Core.dll
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.RazorAssemblyInfo.cache
+C:\Users\Frank\Desktop\Dotnet Core\obj\Debug\net10.0\Dotnet Core.RazorAssemblyInfo.cs
