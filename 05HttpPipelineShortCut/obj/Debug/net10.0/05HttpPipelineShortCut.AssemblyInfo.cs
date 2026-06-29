@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05HttpPipelineShortCut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab013060e872eca4ea613858c6b70e2f37f1d53a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3393450e11bbac66c5cca8dc3341309e1a1e20bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("05HttpPipelineShortCut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05HttpPipelineShortCut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

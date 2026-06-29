@@ -7,6 +7,12 @@ app.Use(async(context, next) =>
     await next();
 });
 
+app.Use(async (context, next) =>
+{
+    Console.WriteLine("Use RequestDelegate");
+    await next(context);
+});
+
 
 app.Use(async (context, next) =>
 {
