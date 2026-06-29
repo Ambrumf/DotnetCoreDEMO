@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj": {}
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\03CustomOptionParameters\\03CustomOptionParameters.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj": {
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\03CustomOptionParameters\\03CustomOptionParameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj",
-        "projectName": "02ValidateAnnotations",
-        "projectPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\03CustomOptionParameters\\03CustomOptionParameters.csproj",
+        "projectName": "03CustomOptionParameters",
+        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\03CustomOptionParameters\\03CustomOptionParameters.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\03CustomOptionParameters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
