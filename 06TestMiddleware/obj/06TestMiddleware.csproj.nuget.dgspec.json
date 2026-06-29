@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj": {}
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj": {
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj",
-        "projectName": "02ValidateAnnotations",
-        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\02ValidateAnnotations.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj",
+        "projectName": "06TestMiddleware",
+        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\02ValidateAnnotations\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

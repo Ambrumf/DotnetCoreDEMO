@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj": {}
+    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj": {
+    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj",
+        "projectUniqueName": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj",
         "projectName": "04ActionChain",
-        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj",
+        "projectPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\04ActionChain.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\obj\\",
+        "outputPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\04ActionChain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
