@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "04ActionChain/1.0.0": {
+        "runtime": {
+          "04ActionChain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04ActionChain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

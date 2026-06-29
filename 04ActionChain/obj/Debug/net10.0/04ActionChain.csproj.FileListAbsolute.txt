@@ -1,0 +1,15 @@
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\bin\Debug\net10.0\04ActionChain.exe
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\bin\Debug\net10.0\04ActionChain.deps.json
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\bin\Debug\net10.0\04ActionChain.runtimeconfig.json
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\bin\Debug\net10.0\04ActionChain.dll
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\bin\Debug\net10.0\04ActionChain.pdb
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.AssemblyInfoInputs.cache
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.AssemblyInfo.cs
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.sourcelink.json
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.dll
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\refint\04ActionChain.dll
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.pdb
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\04ActionChain.genruntimeconfig.cache
+C:\Users\Frank\Desktop\Dotnet Core\04ActionChain\obj\Debug\net10.0\ref\04ActionChain.dll
