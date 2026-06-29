@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\Dotnet Core.csproj": {}
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\01MvcColorOption\\Dotnet Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\Dotnet Core.csproj": {
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\01MvcColorOption\\Dotnet Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\Dotnet Core.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\01MvcColorOption\\Dotnet Core.csproj",
         "projectName": "Dotnet Core",
-        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\Dotnet Core.csproj",
+        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\01MvcColorOption\\Dotnet Core.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\01MvcColorOption\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
