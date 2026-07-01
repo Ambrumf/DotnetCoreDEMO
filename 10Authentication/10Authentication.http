@@ -1,0 +1,42 @@
+@host = http://localhost:5065
+@token =
+
+### Home
+GET {{host}}/
+
+### Demo accounts
+GET {{host}}/auth/demo-accounts
+
+### Login as admin
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+  "userName": "admin",
+  "password": "admin123!"
+}
+
+### Login as alice
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+  "userName": "alice",
+  "password": "alice123!"
+}
+
+### Protected profile
+GET {{host}}/secure/profile
+Authorization: Demo {{token}}
+
+### Admin only
+GET {{host}}/secure/admin
+Authorization: Demo {{token}}
+
+### Payroll permission
+GET {{host}}/secure/payroll
+Authorization: Demo {{token}}
+
+### Logout / revoke current token
+POST {{host}}/auth/logout
+Authorization: Demo {{token}}

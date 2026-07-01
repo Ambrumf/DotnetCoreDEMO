@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj": {}
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\10Authentication\\10Authentication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj": {
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\10Authentication\\10Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj",
-        "projectName": "09UseItem",
-        "projectPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\10Authentication\\10Authentication.csproj",
+        "projectName": "10Authentication",
+        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\10Authentication\\10Authentication.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\10Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
