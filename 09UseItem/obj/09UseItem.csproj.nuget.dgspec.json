@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj": {}
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj": {
+    "C:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj",
-        "projectName": "06TestMiddleware",
-        "projectPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\06TestMiddleware.csproj",
+        "projectUniqueName": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj",
+        "projectName": "09UseItem",
+        "projectPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\09UseItem.csproj",
         "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Frank\\Desktop\\Dotnet Core\\06TestMiddleware\\obj\\",
+        "outputPath": "C:\\Users\\Frank\\Desktop\\Dotnet Core\\09UseItem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
